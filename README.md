@@ -6,6 +6,10 @@
 
 This repository contains the database and visualizations supporting the research paper on parametric design exploration of tall buildings with outer diagrids. The database comprises 1,000 artificial tall building models subjected to seven ground motion signals from the NGA-West2 database, providing a comprehensive resource for AI-driven structural design and early-stage decision support in the architecture, engineering, and construction community.
 
+## Companion Repository
+
+The surrogate-model and optimisation code developed from this dataset is maintained separately in the repository `surrogate-based-generative-optimisation-of-diagrid-tall-buildings`. This repository remains focused on the dataset, reference documentation, and supporting visual material for the dataset paper.
+
 ## 📁 Repository Structure
 
 ```
