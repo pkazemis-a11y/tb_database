@@ -8,7 +8,8 @@ This repository contains the database and visualizations supporting the research
 
 ## Companion Repository
 
-The surrogate-model and optimisation code developed from this dataset is maintained separately in the repository `surrogate-based-generative-optimisation-of-diagrid-tall-buildings`. This repository remains focused on the dataset, reference documentation, and supporting visual material for the dataset paper.
+The surrogate-model and optimisation code developed from this dataset is maintained separately in the repository 
+[surrogate-based-generative-optimisation-of-diagrid-tall-buildings](https://https://github.com/pkazemis-a11y/surrogate-based-generative-optimisation-of-diagrid-tall-buildings). This repository remains focused on the dataset, reference documentation, and supporting visual material for the dataset paper.
 
 ## 📁 Repository Structure
 
