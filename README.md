@@ -9,7 +9,7 @@ This repository contains the database and visualizations supporting the research
 ## Companion Repository
 
 The surrogate-model and optimisation code developed from this dataset is maintained separately in the repository 
-[surrogate-based-generative-optimisation-of-diagrid-tall-buildings](https://github.com/pkazemis-a11y/surrogate-based-generative-optimisation-of-diagrid-tall-buildings). This repository remains focused on the dataset, reference documentation, and supporting visual material for the dataset paper.
+[tb_surrogate](https://github.com/pkazemis-a11y/tb_surrogate). This repository remains focused on the dataset, reference documentation, and supporting visual material for the dataset paper.
 
 ## 📁 Repository Structure
 
@@ -50,8 +50,8 @@ New to this dataset? Start here:
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/Tall-buildings-with-outer-diagrids-design-exploration.git
-cd Tall-buildings-with-outer-diagrids-design-exploration
+git clone https://github.com/pkazemis-a11y/tb_database.git
+cd tb_database
 
 # Install dependencies
 pip install -r requirements.txt

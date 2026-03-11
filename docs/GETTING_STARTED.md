@@ -7,8 +7,8 @@ This guide will help you begin working with the Tall Buildings with Outer Diagri
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/pkazemis-a11y/Tall-buildings-with-outer-diagrids-design-exploration.git
-cd Tall-buildings-with-outer-diagrids-design-exploration
+git clone https://github.com/pkazemis-a11y/tb_database.git
+cd tb_database
 ```
 
 ### 2. Explore the Data

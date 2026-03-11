@@ -38,7 +38,7 @@ keywords:
   - "Tall Buildings"
   - "Generative Design"
 license: MIT
-repository-code: "https://github.com/pkazemis-a11y/Tall-buildings-with-outer-diagrids-design-exploration"
+repository-code: "https://github.com/pkazemis-a11y/tb_database"
 abstract: "Tall buildings with outer diagrids stimulate the ingenuity and creativity of architects and designers thanks to the possibility of reducing the dimensions of interior cores and freeing up internal space for alternative uses. However, the interplay between structure and architectural form is often not immediately apparent in the early stages of design, particularly with regard to the level of detail required to inform quantitative decisions. In this study, a database comprising 1000 artificial tall buildings has been generated using parametric modelling. These buildings have been then subjected to seven ground motion signals taken from the NGA-West2 database, and a substantial amount of data has been collected in terms of geometric, structural, and environmental variables. This data has been organised in a way that will support subsequent investigations using artificial intelligence algorithms. In this paper, the data is described according to specific input and output variables, demonstrating the extent to which the database has been expanded with respect to the design space. The data is accessible in a repository for the architecture, engineering and construction community."
 date-released: 2025-01-19
 version: "1.0.0"
