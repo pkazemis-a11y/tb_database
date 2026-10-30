@@ -1,24 +1,22 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 type: dataset
-title: "Tall buildings with outer diagrids design exploration: influence of architectural forms on the structural behaviour in the early-stage design"
+title: "Tall buildings with diagrids: design exploration and assessment of the influence of the architectural form on the structural behavior"
 authors:
   - family-names: Kazemi
     given-names: Pooyan
     email: seyedpooyan.kazemi@polimi.it
     affiliation: "Department of Civil and Environmental Engineering, Politecnico di Milano"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
   - family-names: Entezami
     given-names: Alireza
     email: alireza.entezami@polimi.it
     affiliation: "Department of Civil and Environmental Engineering, Politecnico di Milano"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
   - family-names: Turrin
     given-names: Michela
-    affiliation: "Department of Civil and Environmental Engineering, Politecnico di Milano"
+    affiliation: "Architectural Engineering and Technology Department, Delft University of Technology"
   - family-names: Andriotis
     given-names: Charalampos
-    affiliation: "Department of Civil and Environmental Engineering, Politecnico di Milano"
+    affiliation: "Architectural Engineering and Technology Department, Delft University of Technology"
   - family-names: Mariani
     given-names: Stefano
     email: stefano.mariani@polimi.it
@@ -39,7 +37,27 @@ keywords:
   - "Generative Design"
 license: MIT
 repository-code: "https://github.com/pkazemis-a11y/tb_database"
-abstract: "Tall buildings with outer diagrids stimulate the ingenuity and creativity of architects and designers thanks to the possibility of reducing the dimensions of interior cores and freeing up internal space for alternative uses. However, the interplay between structure and architectural form is often not immediately apparent in the early stages of design, particularly with regard to the level of detail required to inform quantitative decisions. In this study, a database comprising 1000 artificial tall buildings has been generated using parametric modelling. These buildings have been then subjected to seven ground motion signals taken from the NGA-West2 database, and a substantial amount of data has been collected in terms of geometric, structural, and environmental variables. This data has been organised in a way that will support subsequent investigations using artificial intelligence algorithms. In this paper, the data is described according to specific input and output variables, demonstrating the extent to which the database has been expanded with respect to the design space. The data is accessible in a repository for the architecture, engineering and construction community."
+abstract: "Tall buildings with diagrids offer several advantages over alternative structural solutions, including the possibility of reducing the dimensions of interior cores and freeing up interior space. However, the interplay between structural systems and architectural form is not always adequately considered during the early stages of design to support quantitative decision-making. In this study, a database comprising 1000 tall buildings has been generated using parametric modeling. The buildings range in height from 140 to 300 meters. These buildings have then been subjected to seven ground motions selected from the NGA-West2 database, for a total of 7000 simulations. Data related to geometric, structural, and environmental variables will subsequently be processed to support investigations based on artificial intelligence-driven generative approaches aimed at producing alternative optimized solutions. In this paper, the data are described in terms of specific 22 input (10 architectural, 12 related to the ground motion) and 99 output (69 structural, 23 environmental, 7 geometry-dependent) features, demonstrating the extent to which the database has been expanded with respect to the original design space. The dataset is made available through a repository for the architecture, engineering, and construction community."
 date-released: 2025-01-19
 version: "1.0.0"
-# doi: 10.XXXX/journal.XXXX  # Uncomment and update when DOI is available
+preferred-citation:
+  type: article
+  title: "Tall buildings with diagrids: design exploration and assessment of the influence of the architectural form on the structural behavior"
+  authors:
+    - family-names: Kazemi
+      given-names: Pooyan
+    - family-names: Entezami
+      given-names: Alireza
+    - family-names: Turrin
+      given-names: Michela
+    - family-names: Andriotis
+      given-names: Charalampos
+    - family-names: Mariani
+      given-names: Stefano
+    - family-names: Ghisi
+      given-names: Aldo
+  journal: "Structures"
+  volume: 93
+  year: 2026
+  pages: "113161"
+  doi: "10.1016/j.istruc.2026.113161"

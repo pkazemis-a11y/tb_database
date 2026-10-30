@@ -1,6 +1,6 @@
-# Tall buildings with outer diagrids design exploration: influence of architectural forms on the structural behaviour in the early-stage design
+# Tall buildings with diagrids: design exploration and assessment of the influence of the architectural form on the structural behavior
 
-[![DOI](https://img.shields.io/badge/DOI-10.XXXX%2Fjournal.XXXX-blue)]()
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.istruc.2026.113161-blue)](https://doi.org/10.1016/j.istruc.2026.113161)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Dataset](https://img.shields.io/badge/Dataset-1000_buildings-orange)]()
 
@@ -63,7 +63,15 @@ python load_data.py
 
 ## 📄 Abstract
 
-Tall buildings with outer diagrids stimulate the ingenuity and creativity of architects and designers thanks to the possibility of reducing the dimensions of interior cores and freeing up internal space for alternative uses. However, the interplay between structure and architectural form is often not immediately apparent in the early stages of design, particularly with regard to the level of detail required to inform quantitative decisions. In this study, a database comprising 1000 artificial tall buildings has been generated using parametric modelling. These buildings have been then subjected to seven ground motion signals taken from the NGA-West2 database, and a substantial amount of data has been collected in terms of geometric, structural, and environmental variables. This data has been organised in a way that will support subsequent investigations using artificial intelligence algorithms. In this paper, the data is described according to specific input and output variables, demonstrating the extent to which the database has been expanded with respect to the design space. The data is accessible in a repository for the architecture, engineering and construction community.
+Tall buildings with diagrids offer several advantages over alternative structural solutions, including the possibility of reducing the dimensions of interior cores and freeing up interior space. However, the interplay between structural systems and architectural form is not always adequately considered during the early stages of design to support quantitative decision-making. In this study, a database comprising 1000 tall buildings has been generated using parametric modeling. The buildings range in height from 140 to 300 meters. These buildings have then been subjected to seven ground motions selected from the NGA-West2 database, for a total of 7000 simulations. Data related to geometric, structural, and environmental variables will subsequently be processed to support investigations based on artificial intelligence-driven generative approaches aimed at producing alternative optimized solutions. In this paper, the data are described in terms of specific 22 input (10 architectural, 12 related to the ground motion) and 99 output (69 structural, 23 environmental, 7 geometry-dependent) features, demonstrating the extent to which the database has been expanded with respect to the original design space. The dataset is made available through a repository for the architecture, engineering, and construction community.
+
+## ✨ Highlights
+
+- Detailed workflow for the numerical generation of a tall building database.
+- Database of 1000 tall buildings with diagrids available online.
+- Seismic analysis in the time domain for seven moderate earthquakes.
+- Assessment of the influence of architectural form on structural behavior.
+- Geometrical, structural, and environmental features, including cost and carbon footprint.
 
 ## 📊 Dataset Overview
 
@@ -163,18 +171,20 @@ See [LICENSE](LICENSE) for details.
 If you use this dataset in your research, please cite:
 
 ```bibtex
-@article{kazemi2025tall,
-  title={Tall buildings with outer diagrids design exploration: influence of architectural forms on the structural behaviour in the early-stage design},
+@article{kazemi2026diagrids,
+  title={Tall buildings with diagrids: design exploration and assessment of the influence of the architectural form on the structural behavior},
   author={Kazemi, Pooyan and Entezami, Alireza and Turrin, Michela and Andriotis, Charalampos and Mariani, Stefano and Ghisi, Aldo},
-  journal={[Journal Name]},
-  year={2025},
-  doi={10.XXXX/journal.XXXX},
-  publisher={[Publisher]},
-  address={Department of Civil and Environmental Engineering, Politecnico di Milano, Milano, Italy}
+  journal={Structures},
+  volume={93},
+  pages={113161},
+  year={2026},
+  issn={2352-0124},
+  doi={10.1016/j.istruc.2026.113161},
+  url={https://www.sciencedirect.com/science/article/pii/S2352012426021119}
 }
 ```
 
-**Paper DOI**: [10.XXXX/journal.XXXX]() *(Update with actual DOI upon publication)*
+**Paper DOI**: [10.1016/j.istruc.2026.113161](https://doi.org/10.1016/j.istruc.2026.113161)
 
 ## 📧 Contact
 
@@ -188,4 +198,4 @@ This research was conducted at the Department of Civil and Environmental Enginee
 
 ---
 
-**Keywords**: AI in Building Design • High-rise Buildings • Outer Diagrids • Parametric Design • Structural Analysis • Seismic Response • Early-stage Design
+**Keywords**: AI in building design • High-rise buildings • Diagrid • Structural database

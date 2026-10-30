@@ -36,4 +36,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 
 **Note**: For detailed information about the research, see the main paper:
-*Tall buildings with outer diagrids design exploration: influence of architectural forms on the structural behaviour in the early-stage design*
+*Tall buildings with diagrids: design exploration and assessment of the influence of the architectural form on the structural behavior*

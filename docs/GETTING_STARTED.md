@@ -274,11 +274,14 @@ For detailed information about all variables, see:
 Remember to cite this work in your research:
 
 ```bibtex
-@article{kazemi2025tall,
-  title={Tall buildings with outer diagrids design exploration: influence of architectural forms on the structural behaviour in the early-stage design},
+@article{kazemi2026diagrids,
+  title={Tall buildings with diagrids: design exploration and assessment of the influence of the architectural form on the structural behavior},
   author={Kazemi, Pooyan and Entezami, Alireza and Turrin, Michela and Andriotis, Charalampos and Mariani, Stefano and Ghisi, Aldo},
-  year={2025},
-  doi={10.XXXX/journal.XXXX}
+  journal={Structures},
+  volume={93},
+  pages={113161},
+  year={2026},
+  doi={10.1016/j.istruc.2026.113161}
 }
 ```
 

@@ -136,13 +136,14 @@ Or simply share your findings by opening an issue.
 
 ### Has this data been peer-reviewed?
 
-The database and methodology are described in a peer-reviewed research paper (citation details in [CITATION.cff](../CITATION.cff)). The paper is currently under review/published [update as appropriate].
+Yes. The database and methodology are described in a peer-reviewed paper published in *Structures* (citation details in [CITATION.cff](../CITATION.cff)).
 
 ### Where is the paper published?
 
 Publication details:
-- **Title**: Tall buildings with outer diagrids design exploration: influence of architectural forms on the structural behaviour in the early-stage design
-- **DOI**: 10.XXXX/journal.XXXX *(update when available)*
+- **Title**: Tall buildings with diagrids: design exploration and assessment of the influence of the architectural form on the structural behavior
+- **Journal**: *Structures*, Volume 93 (2026), Article 113161
+- **DOI**: [10.1016/j.istruc.2026.113161](https://doi.org/10.1016/j.istruc.2026.113161)
 - **Authors**: Kazemi, P., Entezami, A., Turrin, M., Andriotis, C., Mariani, S., Ghisi, A.
 
 ### How should I cite this work?
@@ -150,11 +151,14 @@ Publication details:
 See [CITATION.cff](../CITATION.cff) for the complete citation. In brief:
 
 ```bibtex
-@article{kazemi2025tall,
-  title={Tall buildings with outer diagrids design exploration...},
-  author={Kazemi, Pooyan and others},
-  year={2025},
-  doi={10.XXXX/journal.XXXX}
+@article{kazemi2026diagrids,
+  title={Tall buildings with diagrids: design exploration and assessment of the influence of the architectural form on the structural behavior},
+  author={Kazemi, Pooyan and Entezami, Alireza and Turrin, Michela and Andriotis, Charalampos and Mariani, Stefano and Ghisi, Aldo},
+  journal={Structures},
+  volume={93},
+  pages={113161},
+  year={2026},
+  doi={10.1016/j.istruc.2026.113161}
 }
 ```
 
